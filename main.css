@@ -38,7 +38,7 @@ body {
   font-style: italic;
 }
 
-/*MOBILE*/
+
 
 @media screen and (min-width: 601px) {
   body {
@@ -91,7 +91,7 @@ a {
 }
 
 .dropdown-content a:hover {
-  background-color: rgba(46,49,49, .4)
+  background-color: rgba(46,49,49, .4);
 }
 
 .dropdown:hover .dropdown-content {
